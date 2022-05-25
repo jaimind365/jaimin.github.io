@@ -11,12 +11,12 @@ body
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: auto;
     padding: 5px;
-    color: darkviolet;
+    color: indigo;
     /*background-color:rgb(255, 232, 181);*/
     width: 800px;
     line-height: 0x;
     text-align: center;
-    border: 1px solid rgb(148, 0, 211);  
+    border: 1px solid indigo;  
 }
 /*.Class2
 {
@@ -40,7 +40,7 @@ body
 .Class2
 {
     width: 800px;
-border: 1px solid darkviolet;
+border: 1px solid indigo;
 background-color: rgb(255, 255, 255);
 margin: auto;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -58,7 +58,7 @@ padding-left: 20px;
 padding-top: 20px;
 color: rgb(0, 0, 0);
 /*background-color: cyan;*/
-border: 1px solid rgb(148, 0, 211);
+border: 1px solid indigo;
 width: 780px;
 text-align: left;
 }
@@ -81,7 +81,7 @@ text-align: left;
 {
     width: 780px;
     font-size: medium;
-border: 1px solid darkviolet;
+border: 1px solid indigo;
 background-color: rgb(255, 255, 255);
 margin: auto;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -169,11 +169,11 @@ a:link
 {
         font-style: italic;
 font-style: normal;
-text-decoration: darkviolet;
+text-decoration: indigo;
 }
         a:hover
         {
-            color: darkviolet;
+            color: indigo;
             text-decoration: underline;
         }
         a:visited
